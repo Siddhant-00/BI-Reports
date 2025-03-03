@@ -1,5 +1,5 @@
 📊 Presence Insights - Power BI Report
-Overview
+*Overview*
 This Power BI report provides insights into employee presence, work-from-home (WFH), and sick leave (SL) trends over time. The report includes key performance indicators, trend charts, and breakdowns by employee and day of the week.
 
 📈 Key Metrics
